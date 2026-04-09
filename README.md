@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### `< Full Stack Developer />` · `{ Machine Learning Enthusiast }`
+### `< Full Stack Developer />` · `{ Machine Learning Enthusiast }` · `// Backend Builder`
 
 <br/>
 
@@ -29,31 +29,82 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👋 About Me
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```javascript
-const maurya = {
-  role: "Full Stack Developer",
-  passion: ["Backend Engineering", "ML"],
-  currentFocus: [
-    "Mastering Backend Engineering",
-    "Building Production-Level Projects",
-  ],
-  languages: ["JavaScript", "TypeScript", "C++", "Python", "C"],
-  askMeAbout: ["Node.js", "Express", "React", "SQL"],
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
+```python
+class Maurya:
+    def __init__(self):
+        self.name       = "Maurya Darji"
+        self.location   = "Gandhinagar, Gujarat 🇮🇳"
+        self.role       = "Full Stack Developer"
+        self.focus      = [
+            "Backend Engineering",
+            "Machine Learning",
+            "Scalable Web Apps",
+        ]
+        self.vibe       = "ship it, then make it better 🚀"
+
+    def currently_building(self):
+        return {
+            "systems" : "Scalable backend APIs",
+            "learning": "Production-level engineering",
+            "grinding": "Open Source contributions 🔥",
+        }
+
+    def ask_me_about(self):
+        return [
+            "Node.js", "Express",
+            "React",   "SQL",
+            "Machine Learning",
+        ]
 ```
+
+</td>
+<td width="45%" valign="top">
+
+**🎓 Education**
+
+| B.Tech CSE — Gujarat University |
+|----------------------------------|
+| Focused on Backend & ML Systems |
 
 <br/>
 
-- 🔭 I'm focused on building **scalable backend systems** and **real-world deployable apps**
-- 🌱 Currently mastering **Backend Engineering** and **Production-Level Projects**
-- 👯 Looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Node.js, Express, React, SQL**
-- 📫 Reach me at **mauryadarji2006@gmail.com**
+**📍 Location**
+
+| Gandhinagar, Gujarat, India 🇮🇳 |
+|----------------------------------|
+
+<br/>
+
+**🔨 Currently**
+
+| Building scalable backend systems |
+|-----------------------------------|
+| Mastering production engineering |
+| Grinding open source contributions |
+
+<br/>
+
+**💬 Ask me about**
+
+| Node.js · Express · React · SQL · ML |
+|---------------------------------------|
+
+<br/>
+
+**📫 Reach me**
+
+| [mauryadarji2006@gmail.com](mailto:mauryadarji2006@gmail.com) |
+|---------------------------------------------------------------|
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,6 +181,7 @@ const maurya = {
 │                                                             │
 │   🔧  Backend Dev    →   Node.js · Express · SQL            │
 │   🌐  Web Apps       →   Scalable · Performant · Modern     │
+│   🤖  Machine Learning →   Data Analysis · Model Building   │
 │   🚀  Real Projects  →   Deploy · Ship · Scale              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
