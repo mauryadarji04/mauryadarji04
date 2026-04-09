@@ -190,8 +190,6 @@ class Maurya:
 
 ![Snake animation](https://github.com/mauryadarji04/mauryadarji04/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Snake animation](https://raw.githubusercontent.com/mauryadarji04/mauryadarji04/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
