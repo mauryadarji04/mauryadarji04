@@ -88,12 +88,6 @@ class Maurya:
 | Mastering production engineering |
 | Grinding open source contributions |
 
-<br/>
-
-**💬 Ask me about**
-
-| Node.js · Express · React · SQL · ML |
-|---------------------------------------|
 
 <br/>
 
@@ -181,7 +175,6 @@ class Maurya:
 │                                                             │
 │   🔧  Backend Dev    →   Node.js · Express · SQL            │
 │   🌐  Web Apps       →   Scalable · Performant · Modern     │
-│   🤖  Machine Learning →   Data Analysis · Model Building   │
 │   🚀  Real Projects  →   Deploy · Ship · Scale              │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
